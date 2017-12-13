@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Laberinto\Screen\Script\PlayComands.cs">
+    <Files>
+      <File FileName="Assets\Laberinto\Maze2\script\MazeLoader.cs" Line="65" Column="51" />
+      <File FileName="Assets\Laberinto\Maze2\script\HuntAndKillMazeAlgorithm.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ChangeScenes.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LoadSceneOnClick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Laberinto\Screen\Script\Board.cs" Line="1" Column="1" />
+      <File FileName="Assets\Laberinto\Screen\Script\OnclickButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Laberinto\BB8 New\scripts\Controller.cs" Line="54" Column="1" />
+      <File FileName="Assets\Laberinto\Screen\Script\PlayComands.cs" Line="22" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

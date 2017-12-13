@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Laberinto/escenas/3DJunpro.unity
+  isLoaded: 1
+  isActive: 1
